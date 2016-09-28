@@ -30,7 +30,7 @@ main img {
 footer {
     background-color: white;
     height: 70px;
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     left: 0;
     right: 0;
